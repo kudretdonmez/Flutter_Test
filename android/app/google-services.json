@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "635507727888",
+    "firebase_url": "https://weatherstationiot-ea2ee-default-rtdb.firebaseio.com",
+    "project_id": "weatherstationiot-ea2ee",
+    "storage_bucket": "weatherstationiot-ea2ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635507727888:android:09907cc99f60d3be7bb495",
+        "android_client_info": {
+          "package_name": "com.kudret.flutteriot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635507727888-qk6vp3d6jpr681nkmbgvjclljmj5nd6o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kudret.flutteriot",
+            "certificate_hash": "3f521bd88354356de3ac44010f63d6c5f0193445"
+          }
+        },
+        {
+          "client_id": "635507727888-sjrfn5sgcq32on033kqakn10igc7eaor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-PUmApZ5OhuCGg3QapffAbgGg1EnLL-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635507727888-sjrfn5sgcq32on033kqakn10igc7eaor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
