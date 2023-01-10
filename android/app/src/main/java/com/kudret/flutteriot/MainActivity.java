@@ -1,4 +1,4 @@
-package com.example.flutter_tests;
+package com.kudret.flutteriot;
 
 import io.flutter.embedding.android.FlutterActivity;
 
