@@ -24,7 +24,6 @@ final emulatorHost = (!kIsWeb && defaultTargetPlatform == TargetPlatform.android
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
-    name: "WeatherStationIOT",
     options: DefaultFirebaseOptions.currentPlatform,
   );
 
